@@ -1,5 +1,4 @@
 function wk3_init()
-
 % Vehicle Parameters
 carData.Inertia = 1600; % kg m^2  -  Car Inertia
 carData.Mass = 1000; % kg      -  Car Mass 
